@@ -8,3 +8,13 @@
 - cd .. - change directory 
 - rm {fileName} - remove file
 - rm -m {DirecotoryName} - remove directory
+
+
+# Basic Git commands
+
+- git init
+- git add
+- git commit -m
+- git remote add origin
+- git push origin 
+
