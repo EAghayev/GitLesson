@@ -17,4 +17,10 @@
 - git commit -m
 - git remote add origin
 - git push origin 
+- git branch
+- git branch {newBranchName}
+- git checkout {branchName}
+- git merge {selectedBranch}
+
+
 
