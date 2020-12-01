@@ -22,10 +22,5 @@
 - git checkout {branchName}
 - git merge {selectedBranch}
 
-- some commands
--wow
-
-- oh noo
-
 
 
