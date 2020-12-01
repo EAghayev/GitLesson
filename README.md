@@ -23,6 +23,7 @@
 - git merge {selectedBranch}
 
 - some commands
+-wow
 
 
 
